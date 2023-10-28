@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://superposedwave.github.io/sitemap.xml
+Sitemap: https://superposedwave.github.com/sitemap.xml
