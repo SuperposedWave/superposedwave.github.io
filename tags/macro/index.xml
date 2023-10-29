@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>BOBO&#39;s</title>
-    <link>https://www.superposedwave.github.io/</link>
-    <description>Recent content on BOBO&#39;s</description>
+    <title>Macro on BOBO&#39;s</title>
+    <link>https://www.superposedwave.github.io/tags/macro/</link>
+    <description>Recent content in Macro on BOBO&#39;s</description>
     <image>
       <title>BOBO&#39;s</title>
       <url>https://www.superposedwave.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Oct 2023 00:54:02 +0800</lastBuildDate><atom:link href="https://www.superposedwave.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Oct 2023 00:54:02 +0800</lastBuildDate><atom:link href="https://www.superposedwave.github.io/tags/macro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>RCK Model</title>
       <link>https://www.superposedwave.github.io/posts/rck_model/</link>
@@ -19,15 +19,6 @@
       
       <guid>https://www.superposedwave.github.io/posts/rck_model/</guid>
       <description>1 Assumptions 1.1 Firms A large number of identical firms Product function: $Y=F(K, A L)$ $A$ grows exogenously at rate $g$ 1.2 Households A large number ($H$) of identical households The size of each household grows at rate $n$ Each member of the household supplies $1$ unit of labol at every point in time The household rents whatever capital it owns to firms Initial capital holdings; $K(0)/H$, $K(0)$: the initial amount of capital in the economy; No deprecation Devide its income at each $t$ between comsumption and saving to maximize the lifetime utility 1.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://www.superposedwave.github.io/posts/my-first-post/</link>
-      <pubDate>Sat, 28 Oct 2023 20:31:05 +0800</pubDate>
-      
-      <guid>https://www.superposedwave.github.io/posts/my-first-post/</guid>
-      <description></description>
     </item>
     
   </channel>

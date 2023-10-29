@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.superposedwave.github.io/categories/</loc>
+    <loc>https://www.superposedwave.github.io/categories/advanced-macro-economics/</loc>
+    <lastmod>2023-10-29T00:54:02+08:00</lastmod>
   </url><url>
     <loc>https://www.superposedwave.github.io/</loc>
+    <lastmod>2023-10-29T00:54:02+08:00</lastmod>
+  </url><url>
+    <loc>https://www.superposedwave.github.io/categories/</loc>
+    <lastmod>2023-10-29T00:54:02+08:00</lastmod>
+  </url><url>
+    <loc>https://www.superposedwave.github.io/tags/macro/</loc>
+    <lastmod>2023-10-29T00:54:02+08:00</lastmod>
+  </url><url>
+    <loc>https://www.superposedwave.github.io/posts/</loc>
+    <lastmod>2023-10-29T00:54:02+08:00</lastmod>
+  </url><url>
+    <loc>https://www.superposedwave.github.io/posts/rck_model/</loc>
+    <lastmod>2023-10-29T00:54:02+08:00</lastmod>
   </url><url>
     <loc>https://www.superposedwave.github.io/tags/</loc>
+    <lastmod>2023-10-29T00:54:02+08:00</lastmod>
+  </url><url>
+    <loc>https://www.superposedwave.github.io/posts/my-first-post/</loc>
+    <lastmod>2023-10-28T20:31:05+08:00</lastmod>
   </url>
 </urlset>
